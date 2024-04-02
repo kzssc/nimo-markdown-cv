@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Sisheng Chris Zhang
 email:
-  url: mailto:nimo@cmu.edu
-  text: nimo@cmu.edu
+  url: mailto:career-@-czhang.uk
+  text: career@czhang.uk
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: czhang.uk
+  text: www.czhang.uk
 ---
 
 # Wode **Ni**
