@@ -23,26 +23,26 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Universitat Pompeu Fabra** `2021 - 2025 Expected`
 
 ```
-Pittsburgh, PA
+Barcelona, ES
 ```
 
-- Ph.D. in Software Engineering
-- MS in 2021
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- *   Ph.D Law / Political Philosophy, “Justice, Autonomy, and Self-Employment”
+- FPI Doctoral Researcher
+- Co-advised by [Inigo Gonzalez-Ricoy](https://www.igonzalezricoy.com/) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt)
 
-### **Columbia University** `2016.9 - 2018.5`
+### **Universitat Pompeu Fabra** `2017 - 2018`
 
 ```
-New York, NY
+Barcelona, ES
 ```
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- MA Political Philosophy
+- Double Degree with University of Warwick
 
-### **Dickinson College** `2013.9 - 2016.5`
+### **University of Warwick ** `2013.9 - 2016.5`
 
 ```
 Carlisle, PA
