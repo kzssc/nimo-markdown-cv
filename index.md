@@ -9,7 +9,7 @@ homepage:
   text: www.czhang.uk
 ---
 
-# Wode **Ni**
+# Sisheng Chris **Zhang**
 
 <!--
 include contact information from the front matter
